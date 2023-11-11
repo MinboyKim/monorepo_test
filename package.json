@@ -1,0 +1,13 @@
+{
+    "name": "mono2",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "packageManager": "yarn@4.0.1",
+    "workspaces": [
+        "packages/*"
+    ],
+    "devDependencies": {
+        "typescript": "^5.2.2"
+    }
+}
